@@ -5,7 +5,7 @@ import './App.css';
 
 function App() {
   // Replace 'YOUR_GEMINI_API_KEY_HERE' with your actual Gemini API key
-  const API_KEY = 'AIzaSyCsqgj7kUoCnpa_Uq-ZVwfpq0Xq7MiX4Po';
+  const API_KEY = 'API_KEY ';
   
   const [input, setInput] = useState('');
   const [messages, setMessages] = useState([
